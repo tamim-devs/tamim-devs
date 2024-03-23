@@ -4,7 +4,7 @@
 
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems.
 
-Skills: Python /Node  / REACT / JS / HTML / CSS
+Skills: /Node js  / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Institute 
 - 🌱 I’m currently learning Javascript 
